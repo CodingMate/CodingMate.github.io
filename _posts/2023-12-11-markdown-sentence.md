@@ -2,7 +2,7 @@
 layout: post
 title: 직접 사용할 마크다운 정리
 subtitle: Markdown Basic
-categories: markdown, basic
+categories: markdown
 tags: [markdown]
 ---
 
