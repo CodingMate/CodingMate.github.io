@@ -56,7 +56,7 @@ tags: [markdown]
 
 ### 9. 이미지 (Image)<br>
     `![IMAGE_NAME](/assets/images/banners/home.jpeg)`
-->
+
 ![IMAGE_NAME](/assets/images/banners/home.jpeg)
 
 ### 10. 표 (Table)
@@ -66,7 +66,7 @@ tags: [markdown]
 | 1  | 고양이  | 용식 | 7 |
 | 2  | 개  | 백구  | 3  |
 ```
-->  
+
 | No | 동물(왼쪽 정렬) | 이름(중앙 정렬) | 나이(오른쪽 정렬) |
 |----|:------|:-----:|------:|
 | 1  | 고양이  | 용식 | 7 |
