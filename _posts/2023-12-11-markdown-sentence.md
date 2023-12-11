@@ -54,3 +54,6 @@ tags: [markdown]
 8. 인용문 (Blockquotes)
     > '직접 인용' : 원문을 그대로 가져다 쓰는 행위  
     > '간접 인용' : 원문과 내용을 정리하여 자신의 언어로 풀어 쓴 것
+
+9. 이미지 (Image)<br>
+    `![IMAGE_NAME](/assets/images/banners/home.jpeg)` -> ![IMAGE_NAME](/assets/images/banners/home.jpeg)
