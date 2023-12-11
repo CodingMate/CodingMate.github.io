@@ -22,9 +22,8 @@ tags: [markdown]
     1. *이탤릭체* : `*ABC*` 또는 `_ABC_`  
     2. **볼드체** : `**ABC**` 또는 `__ABC__` 
 
-### 3. 취소선 (Strikethrough)
-    `---`
-    ---
+3. 취소선 (Strikethrough) : `---`
+---
 
 ### 4. 개행 (New Line)
     1. 문장 끝에 공백 두 개(&nbsp;&nbsp;)와 Enter 추가 한 번 개행한 뒤 작성  
